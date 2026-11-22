@@ -1,0 +1,8 @@
+.aistudio/
+.vercel/
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+*.log

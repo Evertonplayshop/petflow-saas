@@ -1,0 +1,6 @@
+{
+  "name": "PETFLOW",
+  "description": "Plataforma SaaS multiempresa de gestão completa para Pet Shops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
